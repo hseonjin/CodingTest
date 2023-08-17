@@ -5,7 +5,6 @@ class Solution {
             answer = a + b;
         else
             answer = a - b;
-        
         return answer;
     }
 }
